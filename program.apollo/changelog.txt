@@ -1,0 +1,184 @@
+[B]4.2.1[/B]
++ Fix: My List order alphabetical
+
+[B]4.2.0[/B]
++ Fix: EPG link
+
+[B]4.1.9[/B]
++ Fix: My List not working
+
+[B]4.1.8[/B]
++ Fix: Multi-lang TV show/Movies name and plot
++ Add: Year 2020
+
+[B]4.1.7[/B]
++ Fix: Missing TV shows
+
+[B]4.1.6[/B]
++ Fix: Movies don't start
+
+[B]4.1.5[/B]
++ Fix: When VOD watched can't watch again
++ Fix: Multi lang take too much time
+
+[B]4.1.4[/B]
++ Fix: TV shows v3
++ Fix: Episode/Movie set as watched 
+
+[B]4.1.3[/B]
++ Add: TV shows Episodes - Last, My Episode, By date
++ Fix: Movies/TV show meta
+
+[B]4.1.2[/B]
++ Fix: TV shows Episodes
+
+[B]4.1.0[/B]
++ Update: TV shows APIv2.1
++ Add: My List (Favorites)
+
+[B]4.0.9[/B]
++ Add: TV shows and Movies by years
+
+[B]4.0.8[/B]
++ Fix: TV shows Non-English interface
+
+[B]4.0.7[/B]
++ Fix: TV shows
++ Fix: Episodes order
++ Fix: Search
+
+[B]4.0.6[/B]
++ Add: Search
++ Fix: Channels list
+
+[B]4.0.0[/B]
++ New: APIv2
++ New: VOD History
+
+[B]3.9.4[/B]
++ Fix: Kodi 18 PVR
+
+[B]3.9.2[/B]
++ Add: Movies Netflix Category
++ Add: Tv shows Kids Category
++ Fix: Wall add title n year
+
+[B]3.9.1[/B]
++ Fix: Netflix Category
+
+[B]3.9.0[/B]
++ Fix: Addon service not video addon
++ Fix: PVR disabled other addons
+
+[B]3.8.9[/B]
++ Fix: Kodi 17/18 VOD wall
+
+[B]3.8.8[/B]
++ Fix: Kodi 18 PVR not loading
++ Fix: Kodi 17/18 search VOD
+
+[B]3.8.7[/B]
++ Add: Netflix under TV shows
+
+[B]3.8.6[/B]
++ Fix: TV shows load
+
+[B]3.8.5[/B]
++ Add: VOD Wall
+
+[B]3.8.4[/B]
++ Fix: TV Guide reload on start
+
+[B]3.8.3[/B]
++ Fix: TV Guide UTC time zone
++ Add: Lite TV Guide option
+
+[B]3.8.2[/B]
++ Add: TV Guide in channels list
+
+[B]3.8.1[/B]
++ Fix: VOD pop up
++ Fix: Movies search
+
+[B]3.8.0[/B]
++ Add: EPG by regions
+
+[B]3.7.9[/B]
++ Fix: start crash
+
+[B]3.7.8[/B]
++ Update: artwork n metadata
+
+[B]3.7.7[/B]
++ Fix: Autologin
+
+[B]3.7.6[/B]
++ Add: Autologin
++ Fix: EPG Timer
+
+[B]3.7.5[/B]
++ Fix: Login info empty
+
+[B]3.7.4[/B]
++ Fix: TV shows premiere
++ Fix: Missing logo on Live TV
+
+[B]3.7.3[/B]
++ Fix: Remove prev msg
++ Rmv: HLS/TS option
+
+[B]3.7.2[/B]
++ Add: Subtitles
+
+[B]3.7.1[/B]
++ Fix: Trakt API
+
+[B]3.7.0[/B]
++ Fix: Minor changes
+
+[B]3.6.8[/B]
++ Add: Live TV MPEG-TS format
+
+[B]3.6.7[/B]
++ Fix: Movies Science Fiction
+
+[B]3.6.6[/B]
++ Force SSL as default 
+
+[B]3.6.5[/B]
++ Change: Live TV logo URL
+
+[B]3.6.4[/B]
++ Add: Auto select domain
+
+[B]3.6.3[/B]
++ Fix: Live TV Alternative domains 
+
+[B]3.6.2[/B]
++ Fix: Auto login
+
+[B]3.6.1[/B]
++ Add: Auto login and member info update
++ Add: Channels search
++ Fix: Search option
+
+[B]3.6.0[/B]
++ Add: SSL connection
++ Add: More domains
+
+[B]3.2.1[/B]
++ Add: Add buffer setting in advancedsettings.xml
+
+[B]3.1.9[/B]
++ Fix: Init member setting
++ Change: Clear cache text
+
+[B]3.1.8[/B]
++ Add: Init member email & password input
+- Fix: "Full slots" msg for members
+
+[B]3.1.7[/B]
+- Fix: RU channels lists
+
+[B]3.1.6[/B]
+- Fix: Tv guide no playing channels

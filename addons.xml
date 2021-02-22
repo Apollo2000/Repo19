@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="program.apollo" version="4.3.0" name="[COLOR white]Apollo[/COLOR] [COLOR FF028ddd]Group[/COLOR] Kodi 19" provider-name="Apollo Group">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.requests"/>
+		<import addon="script.myaddon.artwork"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary>Apollo Group TV - Watch for the B-E-S-T!</summary>
+		<description>
+		For Support Visit Help.ApolloGroup.TV ,Become a member today, visit: ApolloGroup.TV
+		</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.apollo" name="[COLOR white]Apollo[/COLOR] [COLOR FF028ddd]Group[/COLOR] [COLOR white]Repo[/COLOR]" version="1.1.0" provider-name="ApolloGroup.TV">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="Apollo Group Repo">
+		<dir minversion="17.0.0">
+			<info>https://raw.githubusercontent.com/Apollo2000/Repo17/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Apollo2000/Repo17/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Apollo2000/Repo17/master/</datadir>
+		</dir>
+		<dir minversion="18.0.0">
+			<info>https://raw.githubusercontent.com/Apollo2000/Repo18/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Apollo2000/Repo18/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Apollo2000/Repo18/master/</datadir>
+		</dir>
+		<dir minversion="19.0.0">
+			<info>https://raw.githubusercontent.com/Apollo2000/Repo19/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Apollo2000/Repo19/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Apollo2000/Repo19/master/</datadir>
+		</dir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Apollo Group - Watch for the B-E-S-T!</summary>
+        <description>
+		For Support Visit Help.ApolloGroup.TV ,Become a member today, visit: ApolloGroup.TV
+		</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="script.myaddon.artwork" version="1.0.8" name="Myaddon Artwork" provider-name="Team Afterbirth">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib"/>
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes for the Myaddon Addon</summary>
+		<description>Artwork Module for the Myaddon Addon</description>
+        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.
+The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.
+This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+        <license>Beerware rev. 42</license>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="service.subtitles.apollo" name="Apollo Subs" version="1.1.1" provider-name="Apollo Group TV">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+	<import addon="script.module.requests" version="2.9.1"/>
+  </requires>
+  <extension point="xbmc.subtitle.module" library="service.py"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Apollo Group TV - Subtitles</summary>
+	<description>
+	Facebook Page and Support Group @ApolloGroupTV. Become a member today, visit: ApolloGroup.TV
+	</description>
+	<platform>all</platform>
+	</extension>
+</addon>
+</addons>
