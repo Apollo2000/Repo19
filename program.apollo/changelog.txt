@@ -1,3 +1,6 @@
+[B]4.3.2[/B]
++ Fix: Kodi 19 Fixed tv shows
+
 [B]4.3.1[/B]
 + Fix: Kodi 19 (We still need to fix TV shows)
 
