@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="program.apollo" version="4.3.2" name="[COLOR white]Apollo[/COLOR] [COLOR FF028ddd]Group[/COLOR] Kodi 19" provider-name="Apollo Group">
+<addon id="program.apollo" version="4.3.4" name="[COLOR white]Apollo[/COLOR] [COLOR FF028ddd]Group[/COLOR] Kodi 19" provider-name="Apollo Group">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests"/>

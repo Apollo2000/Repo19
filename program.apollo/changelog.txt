@@ -1,8 +1,8 @@
-[B]4.3.2[/B]
-+ Fix: Kodi 19 Fixed tv shows
+[B]4.2.3[/B]
++ Add: sports VOD
 
-[B]4.3.1[/B]
-+ Fix: Kodi 19 (We still need to fix TV shows)
+[B]4.2.2[/B]
++ Fix: Kodi18->Kodi19, Python2.26.0->3.0.0
 
 [B]4.2.1[/B]
 + Fix: My List order alphabetical
